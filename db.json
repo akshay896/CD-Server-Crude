@@ -1,0 +1,18 @@
+{
+  "allDetails": [
+    {
+      "id": "fec8",
+      "empId": "123",
+      "empName": "Akshay ",
+      "empEmail": "akshay@gmail.com",
+      "empStatus": "Active"
+    },
+    {
+      "id": "ba87",
+      "empId": "234",
+      "empName": "Aswin",
+      "empEmail": "aswin@gmail.com",
+      "empStatus": "Active"
+    }
+  ]
+}
